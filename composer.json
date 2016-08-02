@@ -1,0 +1,7 @@
+{
+  "name": "avandrevitor/vagrant-multi-domains",
+  "type": "project",
+  "require": {
+    "slim/slim": "*"
+  }
+}
